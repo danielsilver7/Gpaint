@@ -1,0 +1,11 @@
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\bin\Debug\paint.exe.config
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\bin\Debug\paint.exe
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\bin\Debug\paint.pdb
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\bin\Debug\paint.xml
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.Form1.resources
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.Resources.resources
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.vbproj.GenerateResource.Cache
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.exe
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.xml
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.pdb
+c:\users\cclc\documents\visual studio 2017\Projects\paint\paint\obj\Debug\paint.vbprojResolveAssemblyReference.cache
